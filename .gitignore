@@ -1,0 +1,6 @@
+# project set
+
+# MacOS ignore file
+.DS_Store
+
+**/lib
